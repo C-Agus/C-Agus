@@ -12,4 +12,4 @@ I like building software that is secure, well-tested, and easy to maintain.
 Python · Java · C++ · C# · JavaScript · SQL · Git · Linux · SQLite · GraphQL
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/agustin-camus-485517293/) · agustin.camus2@gmail.com
+   [LinkedIn](https://www.linkedin.com/in/agustin-camus/) · agustin.camus2@gmail.com
